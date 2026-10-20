@@ -1,0 +1,8 @@
+interface:
+  display_name: "营销趋势调研&情绪板"
+  short_description: "先确认营销证据，再生成三方向情绪板"
+  default_prompt: "Use $marketing-research-moodboard to collect marketing evidence, present a Markdown evidence board for confirmation, then build a carrier-aware marketing moodboard."
+
+policy:
+  allow_implicit_invocation: true
+
